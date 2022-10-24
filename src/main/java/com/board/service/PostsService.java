@@ -1,4 +1,4 @@
-package com.board.service.posts;
+package com.board.service;
 
 import com.board.domain.posts.PostsRepository;
 import com.board.web.dto.PostsSaveRequestDto;

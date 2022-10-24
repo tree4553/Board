@@ -1,6 +1,6 @@
 package com.board.web;
 
-import com.board.service.posts.PostsService;
+import com.board.service.PostsService;
 import com.board.web.dto.PostsSaveRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
